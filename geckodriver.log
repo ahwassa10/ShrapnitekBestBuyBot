@@ -1,0 +1,92 @@
+1616800166416	geckodriver	INFO	Listening on 127.0.0.1:64142
+1616800176144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofile0QRH9d"
+1616800177868	Marionette	INFO	Listening on port 64150
+1616800178215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&qp=brand_facet%3DBrand~NVIDIAsc=Global&st=rtx%203070%20founder&type=page&usc=All%20Categories, line 531: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&qp=brand_facet%3DBrand~NVIDIAsc=Global&st=rtx%203070%20founder&type=page&usc=All%20Categories, line 565: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&qp=brand_facet%3DBrand~NVIDIAsc=Global&st=rtx%203070%20founder&type=page&usc=All%20Categories, line 565: TypeError: window.optimizelyClient is undefined
+1616800199367	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&qp=brand_facet%3DBrand~NVIDIAsc=Global&st=rtx%203070%20founder&type=page&usc=All%20Categories, line 565: TypeError: window.optimizelyClient is undefined
+1616800212591	Marionette	INFO	Stopped listening on port 64150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616800320335	geckodriver	INFO	Listening on 127.0.0.1:64255
+1616800329534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofileiRep1G"
+1616800331039	Marionette	INFO	Listening on port 64263
+1616800331112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=3070&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1415: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=3070&type=page&usc=All%20Categories, line 1449: TypeError: window.optimizelyClient is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1616800426207	Marionette	INFO	Stopped listening on port 64263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616800478417	geckodriver	INFO	Listening on 127.0.0.1:64334
+1616800490220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofilev5kBG9"
+1616800491859	Marionette	INFO	Listening on port 64342
+1616800492277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1752: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+1616800513945	Marionette	INFO	Stopped listening on port 64342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616800527305	geckodriver	INFO	Listening on 127.0.0.1:64415
+1616800536728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofiletZt2d6"
+1616800538257	Marionette	INFO	Listening on port 64423
+1616800538297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1752: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1752: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler/6439000.p?skuId=6439000, line 1191: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/amd-ryzen-7-5800x-4th-gen-8-core-16-threads-unlocked-desktop-processor-without-cooler/6439000.p?skuId=6439000, line 1191: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1786: TypeError: window.optimizelyClient is undefined
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.microcenter.com/, line 116: ReferenceError: $A1 is not defined
+JavaScript error: https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=5900x&searchButton=search, line 117: ReferenceError: $A1 is not defined
+JavaScript error: https://www.microcenter.com/bundles/js/DesktopAsyncJScompiled?v=mgaeZJHjzh_G0WSZfs9ujcFLNAypYt1FEKX24kz-8NA1, line 1: TypeError: Bootstrap's dropdowns require Popper.js (https://popper.js.org/)
+JavaScript error: https://www.microcenter.com/search/search_results.aspx?Ntt=5900x&searchButton=search&storeid=075, line 117: ReferenceError: $A1 is not defined
+JavaScript error: https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=5950X&searchButton=search, line 117: ReferenceError: $A1 is not defined
+JavaScript error: https://www.microcenter.com/site/brands/amd-showcase.aspx?ekw=amd&rd=1, line 731: ReferenceError: $A1 is not defined
+JavaScript error: https://www.microcenter.com/search/search_results.aspx?N=4294966995&ekw=cpu&rd=1&vkw=cpu, line 117: ReferenceError: $A1 is not defined
+[Parent 9492, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 9492, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1616814392686	Marionette	INFO	Stopped listening on port 64423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9492, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
