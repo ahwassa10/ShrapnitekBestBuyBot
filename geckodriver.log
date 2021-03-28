@@ -90,3 +90,62 @@ JavaScript error: https://www.microcenter.com/search/search_results.aspx?N=42949
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 [Parent 9492, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1616968578967	geckodriver	INFO	Listening on 127.0.0.1:63635
+1616968590516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofilesnGlDL"
+1616968592132	Marionette	INFO	Listening on port 63643
+1616968592578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1106: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&id=pcat17071&iht=y&keys=keys&ks=960&list=n&sc=Global&st=5900x&type=page&usc=All%20Categories, line 1140: TypeError: window.optimizelyClient is undefined
+1616968762075	Marionette	INFO	Stopped listening on port 63643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616969125327	geckodriver	INFO	Listening on 127.0.0.1:63733
+1616969136748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofileTWz0Ny"
+1616969138289	Marionette	INFO	Listening on port 63741
+1616969138792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1106: TypeError: window.optimizelyClient is undefined
+_create_dc_and_bitmap: The operation completed successfully.
+JavaScript error: https://lms.schwab.com/Login?ClientId=schwab-secondary&StartInSetId=1&enableAppD=false&RedirectUri=client.schwab.com/Login/Signon/AuthCodeHandler.ashx&returnUrl=%2fclientapps%2faccounts%2fsummary%2f, line 98: ReferenceError: $ is not defined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1106: TypeError: window.optimizelyClient is undefined
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1106: TypeError: window.optimizelyClient is undefined
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1616969163884	Marionette	INFO	Stopped listening on port 63741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616969222479	geckodriver	INFO	Listening on 127.0.0.1:63811
+1616969233726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Primary\\AppData\\Local\\Temp\\rust_mozprofileSnhUcp"
+1616969235357	Marionette	INFO	Listening on port 63819
+1616969235787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys, line 1106: TypeError: window.optimizelyClient is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: https://cas.rutgers.edu/webjars/jquery/3.3.1/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1616969239440	Marionette	INFO	Stopped listening on port 63819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

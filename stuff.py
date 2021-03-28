@@ -10,6 +10,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from webdriver_manager.firefox import GeckoDriverManager
 
+import config
+
 # Twilio configuration
 # toNumber = 'your_phonenumber'
 # fromNumber = 'twilio_phonenumber'
@@ -18,7 +20,6 @@ from webdriver_manager.firefox import GeckoDriverManager
 # client = Client(accountSid, authToken)
 
 # Product Page (By default, This URL will scan all RTX 3080's at one time.)
-url = 'https://www.bestbuy.com/site/searchpage.jsp?st=5900x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys'
 def timeSleep(x, driver):
     for i in range(x, -1, -1):
         sys.stdout.write('\r')
@@ -59,7 +60,7 @@ def driverWait(driver, findType, selector):
 
 def findingCards(driver):
     """Scanning all cards."""
-    driver.get(url)
+    driver.get(config.url)
     while True:
         html = driver.page_source
         soup = bs4.BeautifulSoup(html, 'html.parser')
@@ -73,7 +74,7 @@ def findingCards(driver):
                 # Clicking Add to Cart.
                 time.sleep(.3)
                 driverWait(driver, 'css', '.add-to-cart-button')
-                playsound('123.wav')
+                playsound(config.sound)
                 time.sleep(2)
                 return
             else:
