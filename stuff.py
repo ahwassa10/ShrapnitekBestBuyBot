@@ -36,7 +36,7 @@ def createDriver():
     """Creating driver."""
     options = Options()
     options.headless = False  # Change To False if you want to see Firefox Browser Again.
-    profile = webdriver.FirefoxProfile(r'C:\Users\Primary\AppData\Roaming\Mozilla\Firefox\Profiles\wn6904uv.default-release')
+    profile = webdriver.FirefoxProfile(config.profile)
     driver = webdriver.Firefox(profile, options=options, executable_path=GeckoDriverManager().install())
     return driver
 
