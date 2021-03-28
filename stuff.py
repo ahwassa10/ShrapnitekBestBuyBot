@@ -68,8 +68,13 @@ def findingCards(driver):
         wait2 = WebDriverWait(driver, 2)
         try:
             findAllCards = soup.find('button', {'class': 'btn btn-primary btn-sm btn-block btn-leading-ficon add-to-cart-button'})
-            if findAllCards:
-                print(f'Button Found!: {findAllCards.get_text()}')
+            findAllCards2 = soup.find('a', {'class': 'btn btn-secondary btn-sm btn-block add-to-cart-button'})
+            print(findAllCards2)
+            if findAllCards or findAllCards2:
+                if(findAllCards):
+                    print(f'Button Found!: {findAllCards.get_text()}')
+                else:
+                    print(f'Button Found!: {findAllCards2.get_text()}')
 
                 # Clicking Add to Cart.
                 time.sleep(.3)
