@@ -41,12 +41,17 @@ def createDriver():
     return driver
 
 
-def driverWait(driver, findType, selector):
+def driverWait(driver, findType, selector,test):
     """Driver Wait Settings."""
     while True:
         if findType == 'css':
             try:
-                driver.find_element_by_css_selector(selector).click()
+                b = driver.find_elements_by_css_selector(selector)
+                for c in b:
+                    if(c.get_attribute("data-sku-id")==test):
+                        c.click()
+                        break
+                #[c.click() for c in b if c.get_attribute("data-sku-id")==test]
                 break
             except NoSuchElementException:
                 driver.implicitly_wait(0.2)
@@ -56,6 +61,7 @@ def driverWait(driver, findType, selector):
                 break
             except NoSuchElementException:
                 driver.implicitly_wait(0.2)
+
 
 
 def findingCards(driver):
@@ -71,16 +77,19 @@ def findingCards(driver):
             findAllCards2 = soup.find('a', {'class': 'btn btn-secondary btn-sm btn-block add-to-cart-button'})
             print(findAllCards2)
             if findAllCards or findAllCards2:
+                test = None
                 if(findAllCards):
-                    print(f'Button Found!: {findAllCards.get_text()}')
+                    #print(f'Button Found!: {findAllCards.get_text()}')
+                    test = findAllCards["data-sku-id"]
                 else:
-                    print(f'Button Found!: {findAllCards2.get_text()}')
+                    #print(f'Button Found!: {findAllCards2.get_text()}')
+                    test = findAllCards2["data-sku-id"]
 
                 # Clicking Add to Cart.
                 time.sleep(.3)
-                driverWait(driver, 'css', '.add-to-cart-button')
+                driverWait(driver, 'css', '.add-to-cart-button',test)
                 playsound(config.sound)
-                time.sleep(2)
+                time.sleep(3)
                 return
             else:
                 pass

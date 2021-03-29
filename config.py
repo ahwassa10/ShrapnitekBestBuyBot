@@ -1,5 +1,5 @@
 # The url of the webpage to run the bot on
-url = "https://www.bestbuy.com/site/searchpage.jsp?st=5800x&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys"
+url = "https://www.bestbuy.com/site/searchpage.jsp?st=rtx+3070&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys"
 
 # Sound file must be .wav and in the same directory as the file.
 sound = "123.wav"
